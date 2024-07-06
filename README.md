@@ -34,9 +34,9 @@ We welcome contributions from the community to enhance our tools and methodologi
 
 ## Contact Us
 
-For any queries or further information, please contact us at [bruteforce.securities@proton.me](mailto:bruteforce.securities@proton.me).
+For any queries or further information, please contact us at [test@7seas.com](mailto:bruteforce.securities@proton.me).
 
 ---
 
 
-Have questions or need more info? Reach out to us at [contact@consultancy.com](mailto:contact@consultancy.com).
+Have questions or need more info? Reach out to us at [contact@7seas.com](mailto:contact@consultancy.com).
