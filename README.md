@@ -38,43 +38,5 @@ For any queries or further information, please contact us at [bruteforce.securit
 
 ---
 
-### Casual Tone
-
-```markdown
-# Consultancy Services
-
-## Client Convenience, Communication, Education, and Satisfaction 
-
-Hey there! Welcome to our consultancy's GitHub repository. We're all about making things easy for our clients, keeping communication clear, providing tons of useful info, and making sure everyone is happy with our services. This repo is your go-to spot for all things related to our consultancy.
-
-## General
-
-We set up this repository to keep our clients satisfied by being transparent and accessible. You can find the tools and methods we use for our penetration tests here, and you’re welcome to fork them—just give a shout-out to the original creators.
-
-### Ethical Penetration Testing
-
-All the tools here are open-source and meant for ethical hacking. Our mission is to help you secure your systems by finding and fixing potential security issues.
-
-## Attack Folder
-
-### Overview
-
-In this folder, you'll find the tools and scripts we use for our penetration testing projects. We've got everything up to industry standards to make sure we're thorough and effective.
-
-### Tools and Methodologies
-
-- **Automated Testing Tools:** We use various automated tools to quickly spot common vulnerabilities.
-- **Manual Testing Techniques:** Our team digs deeper with manual testing to catch anything the automated tools might miss.
-- **Industry Standards Compliance:** We stick to industry standards to make sure our results are reliable and credible.
-
-### Client Satisfaction and Security Confirmation
-
-We mix automated and manual testing to make sure we cover all the bases. This way, we ensure our clients are completely satisfied and their systems are secure.
-
-## Contributing
-
-Got ideas to make our tools better? We’d love your help! Check out our contributing guidelines to get started.
-
-## Contact Us
 
 Have questions or need more info? Reach out to us at [contact@consultancy.com](mailto:contact@consultancy.com).
